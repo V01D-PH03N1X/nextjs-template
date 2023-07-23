@@ -29,3 +29,8 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 Some ESLint / Prettier errors can be fixed by running:
 
 `npx eslint --fix .`
+
+## Useful Information
+The `.placeholder` file is used to keep the `public` and `components` folder in the git repository.
+
+The `public` folder is used to store static files like images, fonts, etc. and the `components` folder is used to store all components that are used in the pages.
